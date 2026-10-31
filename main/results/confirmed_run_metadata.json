@@ -1,0 +1,41 @@
+{
+  "source_notebook": "C:\\Users\\jack\\Jupyter_files\\QUANT_TRAIDING\\HW_6\\HW_6.ipynb",
+  "notebook_modified": 1786963302.3046606,
+  "saved_execution_counts": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    10,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279
+  ],
+  "confirmed": {
+    "source_series_available": 35,
+    "instruments_used": 18,
+    "research_start": "2010-01-03",
+    "research_end": "2015-01-01",
+    "daily_panel_rows": 1558,
+    "candidate_pairs": 42,
+    "pair_refit_evaluations": 840,
+    "all_filters_passed": 21,
+    "unique_selected_pairs": 14,
+    "oos_return_matrix_rows": 778,
+    "oos_return_matrix_columns": 14
+  },
+  "note": "Метаданные перенесены из сохранённых выводов HW_6.ipynb; тяжёлый расчёт не запускался повторно."
+}

@@ -1,0 +1,6 @@
+﻿criterion,passed,failed,passed_fraction
+check_positive_beta,617,223,0.734524
+check_correlation,564,276,0.671429
+check_cointegration,38,802,0.045238
+check_stationarity,189,651,0.225
+check_half_life,404,436,0.480952
